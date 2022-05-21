@@ -1,6 +1,6 @@
-# hermit_translate_jp
+# marisa_translate_jp
 
-slay the spireのHermit MOD日本語版の翻訳データです
+slay the spireの魔理沙 MOD日本語版の翻訳データです
 
 レリックやカードの追加更新が入り動作しなかったため
 
@@ -8,10 +8,8 @@ slay the spireのHermit MOD日本語版の翻訳データです
 
 適当に翻訳したものです
 
-(2022/05/07時点)
-
-## 元データ様
-https://ux.getuploader.com/StSmodTRjp/download/40
+(2022/05/21 時点)
 
 ## 導入方法参考ページ
+
 https://pcmodgamer.com/game/steam/slay-the-spire-mod#toc3
