@@ -7,6 +7,19 @@
       "アタック : 恐怖ポーション NL スキル : 脱力ポーション  NL パワー : 毒ポーション  NL 状態異常 : 火炎ポーション ; NL 呪い : 煙玉 "
     ]
   },
+  "BottledSpark": {
+    "NAME": "スパークボトル",
+    "DESCRIPTIONS": [
+      " スパークを三枚手札に入れる."
+    ]
+  },
+  "StarNLove": {
+    "NAME": "スター & ラブ",
+    "DESCRIPTIONS": [
+      "増幅効果に使用するエナジーが不要になる。",
+      " #yチャージを取得."
+    ]
+  },
   "WWWWWW": {
     "NAME": "WWWWWWWWWWW",
     "DESCRIPTIONS": [
