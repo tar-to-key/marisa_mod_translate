@@ -271,9 +271,9 @@
     ]
   },
   "InfernoClaw": {
-    "NAME": "Inferno Claw",
+    "NAME": "インフェルノクロー",
     "DESCRIPTIONS": [
-      "Whenever you receive attack damage from this enemy, add a #yBurn into your draw pile.",
+      "攻撃ダメージを受けるたび、 #y火傷 を山札に加える。",
       "WWWWWWWWWWW"
     ]
   },

@@ -21,12 +21,12 @@
   },
   "DarkSpark": {
     "NAME": "ダークスパーク",
-    "DESCRIPTION": "「アタック」以外の手札を廃棄する。 NL 敵全体に二回 !D! ダメージを与える ",
+    "DESCRIPTION": "山札の上から !M! 枚を廃棄、廃棄した攻撃力に応じて全ての敵に !D! ダメージを与える。",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
   },
   "DeepEcoloBomb": {
     "NAME": "ディープエコロジカルボム",
-    "DESCRIPTION": "ランダムな敵に !D! ダメージを与える。 このターン、筋力 !M! を失う。 NL 増幅  [E]  : カードの効果を 2 度得る。"
+    "DESCRIPTION": "ランダムな敵に !D! ダメージを与える。 当たった敵はこのターン 筋力 !M! を失う。 NL 増幅  [E]  : カードの効果を 2 度得る。"
   },
   "DoubleSpark": {
     "NAME": "ダブルスパーク",
@@ -152,7 +152,7 @@
   },
   "OrrerysSun": {
     "NAME": "オーレリーズサン",
-    "DESCRIPTION": " チャージ が使用されるたび NL  !M!ブロックを獲得する。",
+    "DESCRIPTION": " チャージ が使用されるたび NL !M!ブロックを獲得する。",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "ChargingUp": {
@@ -306,8 +306,8 @@
   },
   "MagicChant": {
     "NAME": "魔術詠唱",
-    "DESCRIPTION": "!M! 枚のカードを アップグレード し、1ターン 保留 する。",
-    "UPGRADE_DESCRIPTION": "保留 。 !M! 枚のカードを アップグレード し、1ターン 保留 する。次のターンまで、カードのコストを 1 減らす。"
+    "DESCRIPTION": "山札からカードを選びアップグレードして手札に加える NL 廃棄",
+    "UPGRADE_DESCRIPTION": "山札からカードを選びアップグレードして手札に加える"
   },
   "UnstableBomb": {
     "NAME": "産廃ボム",
@@ -456,7 +456,7 @@
   },
   "AlicesGift": {
     "NAME": "アリスの贈り物",
-    "DESCRIPTION": " 保留 NL !D! ダメージを与える。  NL 廃棄  NL 増幅  [E]  [E] : 3 倍のダメージを与える。",
+    "DESCRIPTION": " 保留 NL !D! ダメージを与える。  NL 廃棄  NL 増幅  [E]  [E]  : 3 倍のダメージを与える。",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "Exhaustion_MRS": {

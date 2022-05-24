@@ -1,0 +1,47 @@
+{
+  "Mushrooms_MRS": {
+    "NAME": "Mushrooms",
+    "DESCRIPTIONS": [
+      "不自然なほど食べたいという欲求に負けてしまう。キノコを次々と食べているうちに、意識が遠のいていくのを感じ、気を失う。目が覚めると、とても変な気分になっています NL #b25% を回復, しかし #rinfected を取得する",
+      "#r@Ambushed!!@ NL キノコにはびこるげっ歯類がどこからともなく現れる",
+      "#b~hypnotizing~ #b~colored~ #b~mushrooms.~ NL このキノコは今まで見たことのないようなキノコばかりだ NL あなたはそのうちのいくつかを集めたいが, 食べたいという奇妙な衝動にかられる..."
+    ],
+    "OPTIONS": [
+      "[採取] #rAnger #rthe #rMushrooms.",
+      "[食べる] #gHeal #g",
+      " #gHP. #rBecome #rCursed #r- #rParasite.",
+      "[戦う]",
+      "[立ち去る]"
+    ]
+  },
+  "OrinTheCat": {
+    "NAME": "BlackCat",
+    "DESCRIPTIONS": [
+      "どこからともなく現れた黒猫 があなたの前で止まり、行く手を阻みます。その猫は #r~死~ #r~and~ #r~不運~ の臭いがし、あなたを見ると背筋が凍るような感じがする。NL それはあなたに向かってニャーと鳴き、あなたの注意を引こうとする。",
+      "猫はあなたをこのまま帰すわけにはいかないようで、爪と牙を見せてあなたに駆け寄ってきた...",
+      "猫は満足そうに逃げ出したが、あなたは #r~死~ #r~and~ #r~不運~ の匂いが残っているのを感じた......",
+      "猫が抱きついてきた...どうやら仲間がいるようだ",
+      "あなたが無視するのを見て、猫は去っていった。"
+    ],
+    "OPTIONS": [
+      "[猫をなでる] #rBecome #rCursed #r- #rWraith.",
+      "[猫を無視する] #gTry #gleaving #gimmediately.",
+      "[戦う]",
+      "[立ち去る]",
+      "[猫をなでる]"
+    ]
+  },
+  "WWWWWWWWWWWWWW": {
+    "NAME": "WWWWWWWWWWWWWW",
+    "DESCRIPTIONS": [
+      "WWWWWWWWWWWWWW",
+      "WWWWWWWWWWWWWW",
+      "WWWWWWWWWWWWWW"
+    ],
+    "OPTIONS": [
+      "WWWWWWWWWWWWWW",
+      "WWWWWWWWWWWWWW",
+      "WWWWWWWWWWWWWW"
+    ]
+  }
+}

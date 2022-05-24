@@ -99,17 +99,17 @@
     ]
   },
   "CatCart": {
-    "NAME": "Cat Cart",
-    "FLAVOR": "When you fall in battle,your loyal kitties will bring you back to life with this.",
+    "NAME": "猫カート",
+    "FLAVOR": "戦場で倒れても、忠実な子猫たちがこれで生き返らせてくれます。",
     "DESCRIPTIONS": [
-      "Gain 1 charge when you climb a floor.When you would die,consume all charges and heal #g4 hp for each of them."
+      "階を上がるとチャージが1つ増え, 死ぬとチャージを消費して1つにつき #g4 HPを回復する"
     ]
   },
   "BigShroomBag": {
-    "NAME": "Big Shroom Bag",
-    "FLAVOR": "A large version of shroom bag.",
+    "NAME": "大きな茸鞄",
+    "FLAVOR": "より大きな茸鞄だ。",
     "DESCRIPTIONS": [
-      "Replaces #rShroom #rBag . NL Parasite cards can now be played. Playing a #yParasite will heal #b3 HP and and draw #b2 card, then Exhausts it."
+      "茸鞄を置き換える。 NL 寄生をプレイできるようになる。 #y寄生 をプレイすると廃棄して HP を #b3 回復し カードを #b2 枚引く。"
     ]
   },
   "WWWWWWWWWWWW": {
