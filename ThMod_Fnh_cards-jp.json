@@ -17,7 +17,7 @@
   },
   "BlazingStar": {
     "NAME": "ブレイジングスター",
-    "DESCRIPTION": "!D! ダメージを与える。 手札の 火傷 1 枚につき !M! の追加ダメージを与える。 NL 増幅  [E]  : 2 倍のダメージを与える。 "
+    "DESCRIPTION": "!B! ダメージを与える。 手札の 火傷 1 枚につき !M! の追加ダメージを与える。 NL 増幅  [E]  : 2 倍のダメージを与える。 "
   },
   "DarkSpark": {
     "NAME": "ダークスパーク",
@@ -54,7 +54,7 @@
   },
   "GravityBeat": {
     "NAME": "グラビティビート",
-    "DESCRIPTION": "!D! ダメージ を与え、 NL デッキナイのこのカード !M! 枚につき、カードを1枚ドローする。",
+    "DESCRIPTION": "!D! ダメージ を与え、 NL デッキのカード !B! 枚につき、カードを1枚ドローする。",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " time(s))."
@@ -112,8 +112,8 @@
   },
   "SatelliteIllusion": {
     "NAME": "サテライトイリュージョン",
-    "DESCRIPTION": "プレイヤーのターン中、 山札のカードが増加するたび [E] を得る。",
-    "UPGRADE_DESCRIPTION": "天賦 NL プレイヤーのターン中、山札のカードが増加するたび  [E]  を得る。"
+    "DESCRIPTION": "自分のターン中、 山札のカードが増加するたび  [E]  を得る。",
+    "UPGRADE_DESCRIPTION": "天賦 NL 自分のターン中、山札のカードが増加するたび  [E]  を得る。"
   },
   "ShootTheMoon": {
     "NAME": "シュート・ザ・ムーン",
@@ -122,7 +122,7 @@
   },
   "StarDustReverie": {
     "NAME": "スターダストレヴァリエ",
-    "DESCRIPTION": "手札を山札に加える。 NL 手札に ランダム なカードを複数追加する。 NL 廃棄 。",
+    "DESCRIPTION": "手札を山札に加える。 NL ランダム なカードを複数枚手札にする。 NL 廃棄 。",
     "UPGRADE_DESCRIPTION": "手札を山札に加える。手札に ランダム な アップグレード したカードを複数追加する。 NL 廃棄 。"
   },
   "UltraShortWave": {
@@ -132,8 +132,8 @@
   },
   "MillisecondPulsars": {
     "NAME": "ミリ秒パルサー",
-    "DESCRIPTION": "増幅 に使用する NL  [E]  が不要になる",
-    "UPGRADE_DESCRIPTION": "天賦 NL 増幅 に使用する NL  [E]  が不要になる"
+    "DESCRIPTION": "増幅 に  [E]  が不要になる",
+    "UPGRADE_DESCRIPTION": "天賦 NL 増幅 に  [E]  が不要になる"
   },
   "Spark": {
     "NAME": " スパーク ",
@@ -152,7 +152,7 @@
   },
   "OrrerysSun": {
     "NAME": "オーレリーズサン",
-    "DESCRIPTION": " チャージ が使用されるたび NL !M!ブロックを獲得する。",
+    "DESCRIPTION": " チャージ が使用されるたび NL !M! ブロックを獲得する。",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "ChargingUp": {
@@ -241,7 +241,7 @@
   },
   "DragonMeteor": {
     "NAME": "ドラゴンメテオ",
-    "DESCRIPTION": "!D! ダメージを与える。 NL 廃棄したカード1枚ごとに、!M! の追加ダメージを与える。",
+    "DESCRIPTION": "!B! ダメージを与える。 NL 廃棄したカード1枚ごとに、!M! の追加ダメージを与える。",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "EventHorizon": {
@@ -271,7 +271,7 @@
   },
   "FluorensentBeam": {
     "NAME": "フローレンストビーム",
-    "DESCRIPTION": "敵全体はHPを !D! 失う。 NL 増幅  [E]  [E]  : 失うHPを !B! に",
+    "DESCRIPTION": "敵全体はHPを !D! 失う。 NL 増幅  [E]  [E]  : 失うHPを !B! にする",
     "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
   },
   "WitchOfGreed": {
@@ -417,7 +417,7 @@
   },
   "WhiteDwarf": {
     "NAME": "ホワイトドワーフ",
-    "DESCRIPTION": "手札が4枚以下の時のみプレイ可能。 NL !B!  ダメージを与える (1。5 × 捨て札の枚数)。手札に 火傷 を 2 枚加える。",
+    "DESCRIPTION": "手札が4枚以下の時のみプレイ可能。 NL !B! ダメージを与える (2 × 捨て札の枚数)。手札に 火傷 を 2 枚加える。",
     "UPGRADE_DESCRIPTION": "手札が4枚以下の時のみプレイ可能。 NL !B! ダメージを与える (2 × 捨て札の枚数)。手札に 火傷 を 2 枚加える。",
     "EXTENDED_DESCRIPTION": [
       "手札が4枚以下ではない",
