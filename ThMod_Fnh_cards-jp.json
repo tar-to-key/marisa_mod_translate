@@ -54,7 +54,7 @@
   },
   "GravityBeat": {
     "NAME": "グラビティビート",
-    "DESCRIPTION": "!D! ダメージ を与え、 NL デッキのカード !B! 枚につき、カードを1枚ドローする。",
+    "DESCRIPTION": "デッキの総枚数 !B! 枚ごとに、 !D! ダメージ を与え、 NL カードを1枚ドローする。",
     "EXTENDED_DESCRIPTION": [
       " NL (",
       " time(s))."
